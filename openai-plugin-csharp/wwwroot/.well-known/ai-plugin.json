@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": ".NET To-Do App",
+  "name_for_model": "DOTNET_TODO",
+  "description_for_human": "App for managing ToDos",
+  "description_for_model": "App that displays, adds, and deletes todos from a list",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://t2jls611-7143.usw2.devtunnels.ms/swagger/v1/swagger.json",
+    "is_user_authenticated": "false"
+  },
+  "logo_url": "https://t2jls611-7143.usw2.devtunnels.ms/dotnet-logo.png",
+  "contact_email": "example@company.com",
+  "legal_info_url": "https://example.com/legal"
+}
